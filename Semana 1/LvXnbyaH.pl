@@ -1,6 +1,3 @@
-<div class="notebook">
-
-<div class="nb-cell program" name="p1">
 %base de datos de hecho 
 hombre(juan).%juan es un hombre
 
@@ -37,10 +34,3 @@ hombre(juan).%juan es un hombre
  padres(sofia, elizabeth).
 
  padres(luis, sofia).
-</div>
-
-<div class="nb-cell query" name="q1">
-hombre(luis)
-</div>
-
-</div>
